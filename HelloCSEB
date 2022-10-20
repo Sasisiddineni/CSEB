@@ -1,0 +1,7 @@
+public class HelloCSEB
+{
+public static void main(String[] args)
+{
+system.out.println("welcome CSEB this is my first jenkins job")
+}
+}
